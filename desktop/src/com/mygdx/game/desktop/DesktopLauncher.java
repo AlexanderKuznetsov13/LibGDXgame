@@ -6,7 +6,7 @@ import com.mygdx.game.GeekPpgGame;
 
 
 public class DesktopLauncher {
-	public static void main (String[] arg) {
+	public static void main(String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.width = 1280;
 		config.height = 720;
@@ -14,3 +14,6 @@ public class DesktopLauncher {
 		new LwjglApplication(new GeekPpgGame(), config);
 	}
 }
+
+
+// сделал
