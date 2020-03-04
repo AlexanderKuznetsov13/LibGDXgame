@@ -6,6 +6,9 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Vector2;
 
+// прошу прощения лежу в больнице с пневмонией. только принесли ноут.
+
+
 public class Hero {
     private Texture texture;
     private Texture texturePointer;
@@ -46,3 +49,4 @@ public class Hero {
         }
     }
 }
+
